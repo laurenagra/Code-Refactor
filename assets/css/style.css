@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header header {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -76,6 +76,10 @@ p {
 }
 
 .benefits {
+    position: absolute;
+    top: 925px;
+    left: 1200px;
+    bottom: 100px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -85,18 +89,50 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Blended the .benefit classes to one to make the code more easily legible*/
-.benefit-aside {
+
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-aside h3 {
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-aside img {
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

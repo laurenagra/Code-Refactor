@@ -1,6 +1,5 @@
 # Code Refactor Horiseon
 First Homework!
-![Image here!]()
 
 
 ## Built this project to better optimize and break down the code within to allow for better accessibility and to make it more available for responsive web use.
@@ -13,5 +12,6 @@ First Homework!
 -Dennis Downer, Collaborator: https://github.com/downerdm
 
 
-## Solved: 
-https://laurenagra.github.io/Code-Refactor/
+## Solved: https://laurenagra.github.io/Code-Refactor/
+
+![Image here!](/assets/images/read-me-image.png)
